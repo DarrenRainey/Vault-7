@@ -1,0 +1,1 @@
+This is the original Wikileaks archive split into 25mb archives (GitHub's Max Upload Limit) and with the password removed to use download something like 7zip or winrar select all the archive and click extract to a folder.
